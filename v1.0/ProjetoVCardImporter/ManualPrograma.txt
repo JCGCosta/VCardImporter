@@ -1,0 +1,9 @@
+Informações para utilização.
+
+Instalador do Ole Db Connection
+https://www.microsoft.com/en-us/download/confirmation.aspx?id=23734
+
+Caso precise adicionar Email:
+Nome do Campo "Email"
+
+Programa feito por Julio Cesar.

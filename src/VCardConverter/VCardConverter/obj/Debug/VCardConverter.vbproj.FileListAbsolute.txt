@@ -1,0 +1,12 @@
+C:\Users\1513 MXTI\source\repos\VCardConverter\VCardConverter\bin\Debug\VCardConverter.exe.config
+C:\Users\1513 MXTI\source\repos\VCardConverter\VCardConverter\bin\Debug\VCardConverter.exe
+C:\Users\1513 MXTI\source\repos\VCardConverter\VCardConverter\bin\Debug\VCardConverter.pdb
+C:\Users\1513 MXTI\source\repos\VCardConverter\VCardConverter\bin\Debug\VCardConverter.xml
+C:\Users\1513 MXTI\source\repos\VCardConverter\VCardConverter\obj\Debug\VCardConverter.Form1.resources
+C:\Users\1513 MXTI\source\repos\VCardConverter\VCardConverter\obj\Debug\VCardConverter.Resources.resources
+C:\Users\1513 MXTI\source\repos\VCardConverter\VCardConverter\obj\Debug\VCardConverter.vbproj.GenerateResource.cache
+C:\Users\1513 MXTI\source\repos\VCardConverter\VCardConverter\obj\Debug\VCardConverter.vbproj.CoreCompileInputs.cache
+C:\Users\1513 MXTI\source\repos\VCardConverter\VCardConverter\obj\Debug\VCardConverter.exe
+C:\Users\1513 MXTI\source\repos\VCardConverter\VCardConverter\obj\Debug\VCardConverter.xml
+C:\Users\1513 MXTI\source\repos\VCardConverter\VCardConverter\obj\Debug\VCardConverter.pdb
+C:\Users\1513 MXTI\source\repos\VCardConverter\VCardConverter\obj\Debug\VCardConverter.vbprojAssemblyReference.cache
