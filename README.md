@@ -1,2 +1,2 @@
 # VCardImporter
- XLS to CSV - VCard Google Contats Import
+ XLS to CSV - VCard Google Contacts Import
